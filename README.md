@@ -1,4 +1,4 @@
-# downloads
+# How to use this repo
 
 **What is this?**
 this is the place where you can download our software
